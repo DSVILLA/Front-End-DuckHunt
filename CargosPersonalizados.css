@@ -1,0 +1,27 @@
+/* Alma Rey */
+#user-rollover.id-5842493>.info>.role span {
+    text-indent: -9999px;
+    line-height: 0;
+}
+
+#user-rollover.id-5842493>.info>.role span:after {
+    text-indent: 0;
+    content: 'Rainha do RBD';
+    display: block;
+    line-height: initial;
+    color: #43CD80;
+}
+
+/* Burkyst */
+#user-rollover.id-20574971>.info>.role span {
+    text-indent: -9999px;
+    line-height: 0;
+}
+
+#user-rollover.id-20574971>.info>.role span:after {
+    text-indent: 0;
+    content: 'Owner';
+    display: block;
+    line-height: initial;
+    color: #43CD80;
+}
