@@ -65,20 +65,20 @@ jspDrag {
 
 
 #app .community .community__right-bar #header-panel-bar,
-#app .community .community__top{background:linear-gradient(to bottom,#00cbff 0,rgba(0, 0, 0,0.4) 0,#00cbff 200%)}
+#app .community .community__top{background:linear-gradient(to bottom,#dc21ce 0,rgba(0, 0, 0,0.4) 0,#dc21ce 200%)}
 #app .community .community__top .community__meta .community__name{color:#fff}
-#app-menu.in-room{background:linear-gradient(to bottom,#00cbff 0,rgba(0, 0, 0,0.4) 0,#00cbff 200%)no-repeat;background-size:200% 54px}
+#app-menu.in-room{background:linear-gradient(to bottom,#dc21ce 0,rgba(0, 0, 0,0.4) 0,#dc21ce 200%)no-repeat;background-size:200% 54px}
 
 #app .community .community__bottom,
 #app .community .community__bottom .bottom__playback-controls,
-#app .community .community__bottom .bottom__playback-meta{background:linear-gradient(to bottom,#00cbff 0,rgba(0, 0, 0,0.5) 0,#00cbff 200%)}
-#app .community .community__bottom .community__playlist--desktop{background:linear-gradient(to bottom,rgba(0, 0, 0,0.5) 0,#00cbff 200%)}
+#app .community .community__bottom .bottom__playback-meta{background:linear-gradient(to bottom,#dc21ce 0,rgba(0, 0, 0,0.5) 0,#dc21ce 200%)}
+#app .community .community__bottom .community__playlist--desktop{background:linear-gradient(to bottom,rgba(0, 0, 0,0.5) 0,#dc21ce 200%)}
 #app .community .community__bottom .community__playlist--desktop>i{color:#fff}
 
 
 .nav-left__item.selected .nav-left__item-icon,
 .nav-left__item.selected .nav-left__item-text {
-    color: #00cbff!important;
+    color: #dc21ce!important;
 }
 
 .community .community__song-playing-progress .progress .progress-bar,
@@ -102,7 +102,7 @@ jspDrag {
 .nav-left__item:hover {
     background: linear-gradient(hsla(239, 74%, 49%, 0.5), hsla(185, 100%, 51%, 0.5))!important;
     opacity: 1;
-    border-left: 2px solid #00cbff!important;
+    border-left: 2px solid #dc21ce!important;
 }
 
 .nav-left .download-app {
@@ -118,7 +118,7 @@ jspDrag {
 .user-profile-dropdown,
 .user-level-dropdown,
 .nav-left {
-    background:linear-gradient(to bottom,#00cbff 0,rgba(0, 0, 0,0.6) 0,#00cbff 200%)
+    background:linear-gradient(to bottom,#dc21ce 0,rgba(0, 0, 0,0.6) 0,#dc21ce 200%)
 }
 
 --------
@@ -143,7 +143,7 @@ jspDrag {
 .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>span,
 .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>i,
 .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>span{
-	color:#00cbff
+	color:#dc21ce
 }
 
 .community .left-side-wrapper .community__bottom .bottom__playback-controls .bottom__playback-controls--desktop .community__player-item{
@@ -152,7 +152,7 @@ jspDrag {
 
 .community .left-side-wrapper .community__bottom .bottom__playback-controls .progress .progress-bar,
 .community .left-side-wrapper .community__bottom .bottom__playback-meta .community__song-playing-progress .progress .progress-bar{
-	background-color:#00cbff
+	background-color:#dc21ce
 }
 
 .community .right-side-wrapper .community__right-bar{
@@ -165,7 +165,7 @@ jspDrag {
 
 .community .right-side-wrapper .community__right-bar #header-panel-bar .header-panel-button.selected{
 	background:linear-gradient(to top,rgba(0, 203, 255,.25),transparent);
-	border-bottom:1px solid #00cbff!important
+	border-bottom:1px solid #dc21ce!important
 }
 
 
@@ -213,7 +213,7 @@ jspDrag {
 }
 .community .community__name{
 	color:#fff;
-	text-shadow:0 0 5px #00cbff
+	text-shadow:0 0 5px #dc21ce
 }
 
 .community .left-side-wrapper .community__top{
