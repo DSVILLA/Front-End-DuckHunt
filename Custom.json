@@ -1,0 +1,45 @@
+{
+    "room": "to tristekkj",
+    "author": "Modificado por Burkyst",
+    "icon": null,
+    "css": "https://gitcdn.link/repo/Burkyst/totristekkj/master/All.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://imgur.com/gzSA5Uh.png",
+        "cohost": "https://imgur.com/gzSA5Uh.png",
+        "manager": "https://imgur.com/XzJ12JA.png",
+        "bouncer": "https://imgur.com/ZC6IFkm.png",
+        "rdj": "https://imgur.com/sbt5F9N.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
