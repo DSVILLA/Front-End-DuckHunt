@@ -1,78 +1,78 @@
 /* Cores Chat/Icon */
 
-/* Burkyst/Gab */
-[data-cid^="20574971-"] .msg .from .icon-chat-subscriber,
-#user-lists .list.room .id-20574971 .icon-chat-subscriber,
-#user-rollover.id-20574971 .meta.subscriber .status i {
+/* MarcosXJ6 */
+[data-cid^="6113566-"] .msg .from .icon-chat-subscriber,
+#user-lists .list.room .id-6113566 .icon-chat-subscriber,
+#user-rollover.id-6113566 .meta.subscriber .status i {
   background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Mikey/sub.png") !important;
   background-repeat: no-repeat !important;
 }
 
-[data-cid^="20574971-"] .msg .from .icon-chat-cohost,
-#user-lists .list.room .id-20574971 .icon-chat-cohost,
-#user-rollover.id-20574971 .info .role i.icon-chat-cohost,
-[data-cid^="20574971-"] .msg .from .icon-chat-host,
-#user-lists .list.room .id-20574971 .icon-chat-host,
-#user-rollover.id-20574971 .info .role i.icon-chat-host {
+[data-cid^="6113566-"] .msg .from .icon-chat-cohost,
+#user-lists .list.room .id-6113566 .icon-chat-cohost,
+#user-rollover.id-6113566 .info .role i.icon-chat-cohost,
+[data-cid^="6113566-"] .msg .from .icon-chat-host,
+#user-lists .list.room .id-6113566 .icon-chat-host,
+#user-rollover.id-6113566 .info .role i.icon-chat-host {
   background: url("https://raw.githubusercontent.com/pitersis/prohibicja/v1/img/ranks-special/Mikey/cohost.png") !important;
   background-repeat: no-repeat !important;
 }
 
-#chat [data-cid^="20574971-"] span.un.clickable,
+#chat [data-cid^="6113566-"] span.un.clickable,
 /*.id-20574971 span.un.clickable,*/
-#user-lists .list.room .id-20574971 .name,
-#user-lists .list.room .is-staff.id-20574971 .name,
-#user-lists .list.room .is-dj.id-20574971 .name,
-#user-lists .list.room .is-subscriber.id-20574971 .name,
-#user-lists .list.room [class*='role'].id-20574971 .name,
-#chat .msg .text .id-20574971,
-#chat .msg .text .name.id-20574971,
-#chat .msg .text .name.id-20574971 .name,
-#user-rollover.id-20574971 .username,
-#user-rollover.id-20574971 .meta.subscriber .status span,
-#user-rollover.id-20574971.is-staff .info .role span {
+#user-lists .list.room .id-6113566 .name,
+#user-lists .list.room .is-staff.id-6113566 .name,
+#user-lists .list.room .is-dj.id-6113566 .name,
+#user-lists .list.room .is-subscriber.id-6113566 .name,
+#user-lists .list.room [class*='role'].id-6113566 .name,
+#chat .msg .text .id-6113566,
+#chat .msg .text .name.id-6113566,
+#chat .msg .text .name.id-6113566 .name,
+#user-rollover.id-6113566 .username,
+#user-rollover.id-6113566 .meta.subscriber .status span,
+#user-rollover.id-6113566.is-staff .info .role span {
   color: #e74c3c !important;
 }
 
-#user-rollover.id-20574971 .subscriber .thumb,
-#user-rollover.id-20574971.is-staff .thumb {
+#user-rollover.id-6113566 .subscriber .thumb,
+#user-rollover.id-6113566.is-staff .thumb {
   border-color: #e74c3c !important;
 }
 
 
 /* Credits */
-#user-rollover.id-20574971 .meta .p3UserID,
-#user-rollover.id- .meta .p3UserID,
-#user-rollover.id- .meta .p3UserID {
+#user-rollover.id-6113566 .meta .p3UserID,
+#user-rollover.id-6113566 .meta .p3UserID,
+#user-rollover.id-6113566 .meta .p3UserID {
     display: none !important;
 }
 
-#user-rollover.id-20574971 span.showID,
+#user-rollover.id-6113566 span.showID,
 #user-rollover.id- span.showID,
 #user-rollover.id- span.showID {
     display: none !important;
 }
 
-#user-rollover.id-20574971 .meta .joined:after,
+#user-rollover.id-6113566 .meta .joined:after,
 #user-rollover.id- .meta .joined:after,
 #user-rollover.id- .meta .joined:after {
-    content: "< /> Room Settings Author" !important;
+    content: "<Deus do script/>" !important;
     position: relative;
     display: inline-block;
     top: 2px;
 }
 
-/* Maitê */
-#user-rollover.id-5842493 .meta .p3UserID {
+/* Karen */
+#user-rollover.id-45016436 .meta .p3UserID {
     display: none !important;
 }
 
-#user-rollover.id-5842493 span.showID {
+#user-rollover.id-45016436 span.showID {
     display: none !important;
 }
 
-#user-rollover.id-5842493 .meta .joined:after {
-    content: "\A Lindona ❤" !important;
+#user-rollover.id-45016436 .meta .joined:after {
+    content: "Comunista linda ❤" !important;
     white-space: pre;
     position: relative;
     display: inline;
