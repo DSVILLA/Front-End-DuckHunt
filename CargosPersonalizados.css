@@ -1,26 +1,26 @@
-/* Alma Rey */
-#user-rollover.id-5842493>.info>.role span {
+/* Drift King */
+#user-rollover.id-6113566>.info>.role span {
     text-indent: -9999px;
     line-height: 0;
 }
 
-#user-rollover.id-5842493>.info>.role span:after {
+#user-rollover.id-6113566>.info>.role span:after {
     text-indent: 0;
-    content: 'Rainha do RBD';
+    content: 'Rei Macintosh';
     display: block;
     line-height: initial;
     color: #43CD80;
 }
 
-/* Burkyst */
-#user-rollover.id-20574971>.info>.role span {
+/* Karenn */
+#user-rollover.id-45016436>.info>.role span {
     text-indent: -9999px;
     line-height: 0;
 }
 
-#user-rollover.id-20574971>.info>.role span:after {
+#user-rollover.id-45016436>.info>.role span:after {
     text-indent: 0;
-    content: 'Owner';
+    content: 'Comunista';
     display: block;
     line-height: initial;
     color: #43CD80;
