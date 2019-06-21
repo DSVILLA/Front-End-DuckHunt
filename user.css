@@ -17,14 +17,14 @@
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://i.imgur.com/LZuupwd.jpg");
+    background-image: url("https://i.imgur.com/UpUdUJx.jpg");
 }
 
 
 /*          BACKGROUND          */
 .cm.message.deletable.id-45016436::before,
 .cm.message.id-45016436::before {
-	background-image: url(http://entretodasascoisas.com.br/wp-content/uploads/2016/10/rbd-Rebelde.jpg);	/* Karen BACKGROUND */
+	background-image: url(https://66.media.tumblr.com/3a4ed7c98805b3aaa2a4f04993fd3bc7/tumblr_ptf0mfe3d01uq2sr8o1_500.gif);	/* Karen BACKGROUND */
 	background-repeat: no-repeat;
 	content: "";
 	position: absolute;
@@ -87,7 +87,7 @@ content: url("https://i.imgur.com/Ev9MdsC.png");
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('https://lh5.ggpht.com/UDUAkziBgTbwjHKHGk72lleRH4R1l_iy2bhChiYlkpC5S_OmGo_zqPvsdkQCsFv84Q=h1080');
+    background-image: url('fotoicon');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 15px auto;
@@ -98,7 +98,7 @@ content: url("https://i.imgur.com/Ev9MdsC.png");
     position: relative;
     left:-1px;
     padding-left:21px;
-    background-image: url('https://imgur.com/1yIgzRY.png');
+    background-image: url('fotoicon');
     background-repeat: no-repeat;
     background-position: 2px center;
     background-size: 15px auto;
