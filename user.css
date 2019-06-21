@@ -1,0 +1,135 @@
+/*          EMBLEMAS/BAGDES          */
+
+/* Burkyst */
+[data-cid^="20574971-"] .badge-box .bdg,
+#user-rollover.id-20574971 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/Gp1zH1c.png");
+}
+
+/* Maitê */
+[data-cid^="5842493-"] .badge-box .bdg,
+#user-rollover.id-5842493 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/LZuupwd.jpg");
+}
+
+/* Nicolas */
+[data-cid^="42735123-"] .badge-box .bdg,
+#user-rollover.id-42735123 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.ibb.co/TYLqzPL/56236029-2396792147267330-4836673714110070784-n.jpg");
+}
+
+/*          BACKGROUND          */
+.cm.message.deletable.id-5842493::before,
+.cm.message.id-5842493::before {
+	background-image: url(http://entretodasascoisas.com.br/wp-content/uploads/2016/10/rbd-Rebelde.jpg);	/* Alma Rey BACKGROUND */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 140%;
+	height: 100%;
+	opacity: .2;
+	z-index: -9;
+	background-position-y: -39px;
+	background-position-x: right;
+}
+
+
+#chat [data-cid^="5842493-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+.cm.message.deletable.id-20574971::before,
+.cm.message.id-20574971::before {
+	background-image: url(https://imgur.com/1MvfKe2.png);	/* Burkyst BACKGROUND */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .5;
+	z-index: -1;
+	background-position-y: -10px;
+	background-position-x: right;
+}
+
+#chat [data-cid^="20574971-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+.cm.message.deletable.id-42735123::before,
+.cm.message.id-42735123::before {
+	background-image: url(http://br.web.img3.acsta.net/r_640_360/newsv7/18/05/03/01/13/0939342.jpg);	/* Nicolas BACKGROUND */
+	background-repeat: no-repeat;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	opacity: .5;
+	z-index: -4;
+	background-position-y: -40px;
+	background-position-x: -50px;
+
+#chat [data-cid^="42735123-"] .from {
+	background: linear-gradient(to right, rgba(0, 0, 0,.12), transparent);
+	padding: 7px;
+	border-radius: 15px;
+}
+
+/* Imagens no lado do nome */
+
+/* Burkyst */
+.id-20574971 > .msg > .from:after {
+content: url("https://imgur.com/9Ws9ige.png");
+}
+
+/* Maitê */
+.id-5842493 > .msg > .from:after {
+content: url("https://i.imgur.com/Ev9MdsC.png");
+}
+
+
+/* Imagem antes do nome */
+
+/* Maitê */
+[data-cid^="5842493-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://lh5.ggpht.com/UDUAkziBgTbwjHKHGk72lleRH4R1l_iy2bhChiYlkpC5S_OmGo_zqPvsdkQCsFv84Q=h1080');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+} 
+
+/* Burkyst */
+[data-cid^="20574971-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://imgur.com/1yIgzRY.png');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+} 
