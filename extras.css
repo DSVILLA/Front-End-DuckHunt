@@ -1,0 +1,19 @@
+$highlight: #25ce7b;
+$highlight50: rgba(37, 206, 123, .5);
+$highlight80: rgba(37, 206, 123, .8);
+$subscriberCOLOR: #c59840;
+$black50: rgba(0, 0, 0, .5);
+$black80: rgba(0, 0, 0, .8); // General stuffs
+
+.jspDrag {
+	background: hsla(67, 100%, 20%, 1);
+}
+
+.is-staff .name {
+	color: $staffCOLOR;
+}
+
+.left-side-wrapper {
+	background-image: url("https://imgur.com/mKn3aiT.png") !important;
+}
+
