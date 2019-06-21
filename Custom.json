@@ -1,8 +1,8 @@
 {
-    "room": "to tristekkj",
-    "author": "Modificado por Burkyst",
+    "room": "Duck Hunt [VaporWave]",
+    "author": "Por MarcosXJ6",
     "icon": null,
-    "css": "https://raw.githack.com/Burkyst/totristekkj/master/NovoEstilo.css",
+    "css": "https://raw.githack.com/DSVILLA/duckhunt/master/N1style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -31,11 +31,11 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://imgur.com/gzSA5Uh.png",
-        "cohost": "https://imgur.com/gzSA5Uh.png",
-        "manager": "https://imgur.com/XzJ12JA.png",
-        "bouncer": "https://imgur.com/ZC6IFkm.png",
-        "rdj": "https://imgur.com/sbt5F9N.png",
+        "host": "https://i.imgur.com/hsWeqW3.png",
+        "cohost": "https://i.imgur.com/hsWeqW3.png",
+        "manager": "https://i.imgur.com/UaLLnlM.png",
+        "bouncer": "https://i.imgur.com/c4Qiamc.png",
+        "rdj": "https://i.imgur.com/jUkL4au.png",
         "subscriber": null,
         "silversubscriber": null
     },
