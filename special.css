@@ -63,18 +63,13 @@
 }
 
 /* Karen */
-#user-rollover.id-45016436 .meta .p3UserID {
-    display: none !important;
 }
-
-#user-rollover.id-45016436 span.showID {
-    display: none !important;
-}
-
-#user-rollover.id-45016436 .meta .joined:after {
-    content: "\Comunista linda ❤" !important;
+#user-rollover.id-45016436 .meta .joined:after
+#user-rollover.id- .meta .joined:after,
+#user-rollover.id- .meta .joined:after 
+    content: "Comunista ❤" !important;
     white-space: pre;
     position: relative;
-    display: inline;
+    display: inline-block;
     top: 2px;
 }
